@@ -6,7 +6,7 @@ It currently supports Ethernet, IP, TCP, and UDP protocols.
 
 ## Requirements
 
-- Java 8 or higher
+- Java 11 or higher
 - Maven
 - [Npcap](https://nmap.org/npcap/) (Windows) or [libpcap](https://www.tcpdump.org/) (Linux/Mac)
 
