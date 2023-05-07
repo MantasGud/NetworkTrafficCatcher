@@ -34,7 +34,7 @@ public class IP  extends Protocol {
 
     @Override
     public String getName() {
-        return "IP";
+        return "IPv4: " + getSourceAddress() + " -> " + getDestinationAddress();
     }
 
     @Override
